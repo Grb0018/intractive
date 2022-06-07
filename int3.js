@@ -35,7 +35,7 @@ function reset(){
     document.getElementById('sig').style.display = 'none';
     document.getElementById('mar').innerHTML =  ' ';
     if(document.getElementById('page').innerHTML==='1'){
-    document.getElementById('Nxt').style.display = 'flex';}else{document.getElementById('Nxt').style.display = 'none';
+    document.getElementById('Nxt').style.display = 'none';}else{document.getElementById('Nxt').style.display = 'none';
  }
 }
 function ans(){
